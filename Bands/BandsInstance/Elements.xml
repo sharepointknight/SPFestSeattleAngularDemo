@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ListInstance Title="Bands" OnQuickLaunch="TRUE" TemplateType="100" Url="Lists/Bands" Description="">
+    <Data>
+      <Rows>
+        <Row>
+          <Field Name="Title">Metallica</Field>
+          <Field Name="Category1">Rock</Field>
+        </Row>
+        <Row>
+          <Field Name="Title">Shania Twain</Field>
+          <Field Name="Category1">Country</Field>
+        </Row>
+        <Row>
+          <Field Name="Title">Daft Punk</Field>
+          <Field Name="Category1">Techno</Field>
+        </Row>
+      </Rows>
+    </Data>
+  </ListInstance>
+</Elements>

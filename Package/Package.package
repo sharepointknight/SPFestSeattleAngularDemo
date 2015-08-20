@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="4e3e39a9-faed-43e3-93d5-f30d8d29f768" 
+        solutionId="4e3e39a9-faed-43e3-93d5-f30d8d29f768" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SPFestSeattleAngularDemo"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="9d9c18f8-8685-47aa-a35d-4daa7b3366d1" />
+  </features>
+</package>
